@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=icon.png --add-data "icon.png;." --hidden-import=scipy.special._cdflib --name "Error Reporter" main.py
