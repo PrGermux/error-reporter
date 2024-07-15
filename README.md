@@ -30,8 +30,8 @@ This repository is a valuable resource for professionals in manufacturing and pr
 
 ### Screenshots
 
-![grafik](https://github.com/PrGermux/error-reporter/assets/11144116/9f440435-50e5-43fa-b88f-92c1782fc824)
-![grafik](https://github.com/PrGermux/error-reporter/assets/11144116/d1e33fa0-787d-4997-852f-9903601246b4)
+![grafik](https://github.com/user-attachments/assets/ae91b140-51e1-49f9-a2ce-b268c2faa912)
+![grafik](https://github.com/user-attachments/assets/e5a90994-92dd-48cb-8955-63c6ad9943e5)
 ![grafik](https://github.com/PrGermux/error-reporter/assets/11144116/218396a5-a862-408f-883c-4593fbb19288)
 ![grafik](https://github.com/PrGermux/error-reporter/assets/11144116/5a6ac7f0-b423-4cc8-b713-38643208b028)
 
