@@ -30,11 +30,10 @@ This repository is a valuable resource for professionals in manufacturing and pr
 
 ### Screenshots
 
-![grafik](https://github.com/user-attachments/assets/ae91b140-51e1-49f9-a2ce-b268c2faa912)
-![grafik](https://github.com/user-attachments/assets/e5a90994-92dd-48cb-8955-63c6ad9943e5)
-![grafik](https://github.com/PrGermux/error-reporter/assets/11144116/218396a5-a862-408f-883c-4593fbb19288)
-![grafik](https://github.com/PrGermux/error-reporter/assets/11144116/5a6ac7f0-b423-4cc8-b713-38643208b028)
-
+![grafik](https://github.com/user-attachments/assets/e234d8f0-607b-4e4a-9d39-8bbaeb6f7c5a)
+![grafik](https://github.com/user-attachments/assets/c66fc4ed-47f8-4767-af6d-a6ac04f5d017)
+![grafik](https://github.com/user-attachments/assets/47144321-ed38-45d8-bfb3-846a9debf8ec)
+![grafik](https://github.com/user-attachments/assets/c22a8099-5f98-48f6-9cb5-fd1537b80956)
 
 ## Installation
 1. Clone the repository:
